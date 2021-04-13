@@ -8,4 +8,4 @@ class print_volume:
 if __name__ == '__main__':
     radius = 12
     obj = print_volume()
-    obj.print_volume(12)
+    obj.print_volume(radius)
